@@ -11,6 +11,14 @@ include 'conexao.php';
     <link href="https://fonts.googleapis.com/css?family=Work+Sans&display=swap" rel="stylesheet"/>
     <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet"/>
     <link rel="stylesheet" href="css/login.css">
+    <style>
+        a{
+            color: white;
+        }
+        a:hover{
+            color:violet;
+        }
+    </style>
 </head>
 <body>
     <div class="everthing">
